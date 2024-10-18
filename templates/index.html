@@ -1,0 +1,33 @@
+<!-- templates/index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>OCR Analytics Page</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <h1>OCR Analytics Page</h1>
+  
+  <!-- Step 1: Image Upload -->
+  <div id="step1">
+    <h3>Step 1</h3>
+    <input type="file" id="imageUpload" accept="image/*">
+  </div>
+  
+  <!-- Step 2: OCR Analyze Button -->
+  <div id="step2">
+    <h3>Step 2</h3>
+    <button id="analyzeBtn">OCR Analyze</button>
+  </div>
+
+  <!-- Step 3: OCR Output -->
+  <div id="step3">
+    <h3>Step 3</h3>
+    <div id="ocrOutput">OCR Categories Output will appear here</div>
+  </div>
+
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
