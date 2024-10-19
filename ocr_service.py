@@ -4,8 +4,8 @@ from azure.cognitiveservices.vision.computervision import ComputerVisionClient
 from msrest.authentication import CognitiveServicesCredentials
 
 # Replace with your Azure details
-AZURE_OCR_ENDPOINT = "https://projectassignment.cognitiveservices.azure.com"
-AZURE_OCR_KEY = "1893580c81eb4dd39a3a77823eda1868"
+AZURE_OCR_ENDPOINT = "" #  enter your endpoint 
+AZURE_OCR_KEY = ""  # enter your key
 
 # ocr_service.py
 def extract_text_from_image(image_path):
