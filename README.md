@@ -1,5 +1,5 @@
 
-# BreadcrumbsCognitive-Services-and-OCR-Analytics
+# Cognitive-Services-and-OCR-Analytics
 
 ### Documentation
 https://docs.google.com/document/d/1q6lL5cdzlGjgfLDaPt0UdzeCfpIF3LZBtfgHfBp5xNc/edit?tab=t.0#heading=h.npydaix8e80g
