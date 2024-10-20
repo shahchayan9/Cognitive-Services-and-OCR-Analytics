@@ -6,6 +6,6 @@ https://docs.google.com/document/d/1q6lL5cdzlGjgfLDaPt0UdzeCfpIF3LZBtfgHfBp5xNc/
 
 ### Screenshots
 
-The screenshots of the Kubernetes running state and the application running are included in the `screenshots` folder in the repository.
+The screenshots of the running state and the application running are included in the `screenshots` folder in the repository.
 
 ---
